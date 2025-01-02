@@ -33,7 +33,7 @@ The backend services are managed on Azure using a combination of Azure API Manag
    - Azure API Management provides a RESTful interface to communicate with backend services, handling HTTP requests and routing them to the appropriate Azure Functions or VMs.
    - Supports request validation, throttling, and monitoring for efficient API management.
 
-### 4. ** Azure Functions**
+### 4. **Azure Functions**
    - Azure Functions are used for backend processing and task reminder logic. The serverless approach allows for scaling based on demand without manual infrastructure management.
    - Used to trigger notifications, update tasks, and handle event-driven functions in response to API requests.
 
